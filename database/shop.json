@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "img": "https://images.unsplash.com/photo-1491472253230-a044054ca35f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=884&q=80",
+      "price": 15000,
+      "categoryId": 1,
+      "description": "Asus notebook"
+    },
+    {
+      "id": 2,
+      "name": "mouse",
+      "img": "https://images.unsplash.com/photo-1586816879360-004f5b0c51e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "price": 250,
+      "categoryId": 2,
+      "description": "logitech"
+    },
+    {
+      "name": "Telefon",
+      "description": "Iphone 12",
+      "img": "https://cdn.akakce.com/apple/iphone-12-64-gb-z.jpg",
+      "price": "15000",
+      "categoryId": 2,
+      "id": 3
+    },
+    {
+      "name": "Iphone 8",
+      "description": "sfsfasfesfwefwefwef",
+      "img": "https://cdn03.ciceksepeti.com/cicek/kcm76857525-1/XL/ikinci-el-apple-iphone-8-64-gb-12-ay-hb-bilisim-garantili-ikinci-el-kcm76857525-1-bc9c99dceb9447f781e3d5e0a320bfac.jpg",
+      "price": "8000",
+      "categoryId": 2,
+      "id": 4
+    },
+    {
+      "name": "mouse",
+      "description": "level 20 RGB mouse",
+      "img": "https://tr.thermaltake.com/media/catalog/product/cache/023a745bb14092c479b288481f91a1bd/l/2/l20m01.jpg",
+      "price": "300",
+      "categoryId": "2",
+      "id": 5
+    },
+    {
+      "name": "Kulaklık",
+      "description": "neeko",
+      "img": "https://cdn03.ciceksepeti.com/cicek/kc3378493-1/XL/kart-girisli-kedi-bluetooth-kulaklik-yuksek-ses-akilli-led-kulaklik-kc3378493-1-bb4f338ed2ef4daa98413bdf72d2d9b6.jpg",
+      "price": "150",
+      "categoryId": "2",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Elektronik"
+    }
+  ]
+}
